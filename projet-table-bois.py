@@ -2,4 +2,4 @@
 # il me faut :   
 
 outils = ['scie sauteuse', 'tournevis', 'ponceuse', "perceuse" ]
-materiaux = ['1 pleateau en chêne', '4 pieds en acier', 'support pied', "un pot de cire" ]
+materiaux = ['1 pleateau en chêne', '4 pieds en acier', 'support pied', "un pot de peinture blanche transparente" ]
