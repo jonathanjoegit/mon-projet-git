@@ -1,5 +1,5 @@
 # Projet de table en bois massif pour ma salle à manger
-# il me faut :
+# il me faut :   
 
 outils = ['scie sauteuse', 'tournevis', 'ponceuse', "perceuse" ]
-materiaux = ['1 pleateau en chêne', '4 chevrons', '50 vis 6x140mm', "un pot de cire" ]
+materiaux = ['1 pleateau en chêne', '4 pieds en acier', 'support pied', "un pot de cire" ]
